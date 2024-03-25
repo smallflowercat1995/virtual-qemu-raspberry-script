@@ -1,5 +1,13 @@
 # virtual-qemu-raspberry-script
-本脚本为树莓派系列适配，树莓派 pi1 pi2 pi3 
+本脚本为树莓派系列适配，树莓派 pi1 pi2 pi3  
+![Watchers](https://img.shields.io/github/watchers/smallflowercat1995/Divination-python-script-for-I-Ching) ![Stars](https://img.shields.io/github/stars/smallflowercat1995/Divination-python-script-for-I-Ching) ![Forks](https://img.shields.io/github/forks/smallflowercat1995/Divination-python-script-for-I-Ching) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=smallflowercat1995.Divination-python-script-for-I-Ching) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
+<a href="https://star-history.com/#smallflowercat1995/Divination-python-script-for-I-Ching&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=smallflowercat1995/Divination-python-script-for-I-Ching&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=smallflowercat1995/Divination-python-script-for-I-Ching&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=smallflowercat1995/Divination-python-script-for-I-Ching&type=Date" />
+  </picture>
+</a>
 >
 本脚本仅仅为 树莓派系列适配，其他环境，可以魔改爆改本脚本，从而达成你的目的
 树莓派 pi1 pi2 pi3 不传入任何参数则默认为 pi1
